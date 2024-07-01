@@ -1,43 +1,26 @@
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
+![GitHub followers](https://img.shields.io/github/followers/mbmaciel?style=social)
 
-```javascript
 
-const luis = {
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-    pronouns: "He" | "Him",
+<p align="left"> 
+ Luis Miguel=> <strong>Desenvolvedor web / mobile </strong>.<br>
+ Estudante de Engenharia de Softwares
+</p>
 
-    askMeAbout: ["web dev", "tech", "games", "mobile dev", "fit"],
+<p align="left">
+  🦄 Linguagens: <strong>Python, Javascript, NodeJS.</strong>
+</p>
 
-    technologies: {
 
-        frontEnd: {
+<p align="left">
+  💻 Cloud: <strong>Google Cloud</strong>
+</p>
 
-            js: ["React"],
+<p align="left">
+  🏢 Projetos: StudioVip</strong>
+</p>
 
-            css: ["bootstrap", "tailwind", "sass"],
 
-            python: ["Tkinter", "OpenCv"]
-        },
-        
-       }
-        
 
-};
-
-```
-
-![neo github stats](https://github-readme-stats.vercel.app/api?username=MiguelMaciel32&hide=contribs,prs&count_private=false&show_icons=true)
-
-<a href="https://github.com/MiguelMaciel32">
-
-  <img src="https://img.shields.io/github/followers/MiguelMaciel32">
-
-</a>
-
-<a href="https://github.com/MiguelMaciel32">
-
-   <img src="https://komarev.com/ghpvc/?username=MiguelMaciel32">
-
-</a>
-
----
+<p><img src="https://raw.githubusercontent.com/mbmaciel/mbmaciel/main/github-contribution-grid-snake.svg" /> </p>
