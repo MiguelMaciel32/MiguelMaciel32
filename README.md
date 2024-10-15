@@ -14,11 +14,5 @@
   ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=google-cloud)
   
 </div>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=graywhite&hide_border=true"/>
-</div>
-
 <br>
 
