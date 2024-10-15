@@ -27,10 +27,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:macielluis390@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail" alt="Email">
   </a>
 </div>
@@ -38,5 +35,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/seu-username/miguelmaciel32/blob/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribuições" />
+  <img src="https://github.com/MiguelMaciel32/MiguelMaciel32/blob/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribuições" />
 </div>
