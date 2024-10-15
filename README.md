@@ -38,5 +38,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribuições" />
+  <img src="https://github.com/seu-username/miguelmaciel32/blob/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribuições" />
 </div>
