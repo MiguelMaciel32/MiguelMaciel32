@@ -20,8 +20,8 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=graywhite&hide_border=true&hide=issues&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=graywhite&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MiguelMaciel32&show_icons=true&theme=graywhite&hide_border=true&hide=issues&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMaciel32&layout=compact&theme=graywhite&hide_border=true"/>
 </div>
 
 <br>
@@ -33,7 +33,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/MiguelMaciel32/MiguelMaciel32/blob/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribuições" />
-</div>
